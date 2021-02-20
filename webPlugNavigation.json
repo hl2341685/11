@@ -653,7 +653,7 @@
       "ads": "",
       "webUrl": "https://www.4kyu.cc",
       "webOpen": false,
-      "click": false,
+      "click": true,
       "webPlus": {
         "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
         "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
@@ -1796,7 +1796,7 @@
       "ads": "",
       "webUrl": "https://4kya.com",
       "webOpen": false,
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "https://4kya.com/index.php/vod/search/wd/{kw}.html",
         "nav_url": "https://4kya.com/index.php/vod/show/id/navCate/page/navPage.html",
