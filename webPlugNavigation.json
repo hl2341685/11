@@ -3,7 +3,8 @@
   "data": [
    {
       "name": "94神马",
-      "pic": "http://dwz.date/dVSc",
+      //"pic": "http://dwz.date/dVSc",
+            "pic": "http://dwz.date/envd",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
