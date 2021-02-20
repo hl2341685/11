@@ -3,8 +3,7 @@
   "data": [
    {
       "name": "94神马",
-      //"pic": "http://dwz.date/dVSc",
-            "pic": "http://dwz.date/envd",
+      "pic": "http://dwz.date/dVSc",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
@@ -2823,7 +2822,7 @@
     },
     {
       "name": "南瓜资源(网址播放)",
-      "pic": "http://dwz.date/envd",
+      "pic": "https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F8770126380%2F640&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1616423048&t=f15025f351283f4db9c7809e71d501b4",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
       "subTitle": "",
