@@ -10,6 +10,8 @@ Free DTV 外链接口
 #### 使用说明
 打开软件---自建接口,输入以下地址:
 https://raw.sevencdn.com/gyhxxx/freedtv/main/
+
+
 https://gitee.com/gyhxx/freedtv/raw/master/
 
 ## 注意别漏掉最后的斜杠!!!!!!
